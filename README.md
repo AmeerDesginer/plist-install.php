@@ -9,11 +9,11 @@ Upload file install.php to server or hosting
 
 ## setup 2 
 to Add url ipa,img and name 
-https://yourdomen.com/install.php?ipa=URLipaHere&img=URLimg&title=NameAppHere
+https://yourdomen.com/install.php?ipa=URLipaHere&icon=URLimg&title=NameAppHere
 
 ipa= URL ipa
 
-img= URL img 
+img= URL icon 
 
 title= Name app
 ## Setup 3 
