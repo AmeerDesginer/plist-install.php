@@ -23,5 +23,7 @@ items:// with url
 itms-services://?action=download-manifest&url=
 
 for install on the iOS 
+
 enter the url on safari
+
 itms-services://?action=download-manifest&url=https://yourdomen.com/install.php?ipa=URLipaHere&img=URLimg&title=NameAppHere
