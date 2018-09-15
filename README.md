@@ -18,7 +18,7 @@ img= URL img
 title= Name app
 ## Setup 3 
 
-items:// with url 
+itms-services:// with url 
 
 itms-services://?action=download-manifest&url=
 
