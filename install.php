@@ -25,7 +25,7 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.test.app</string>
+               <string>com.test<?php echo(rand(10,100)); ?>.app</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
