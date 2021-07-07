@@ -1,21 +1,26 @@
-# Open Source Code plist-install.php :) by @AmeerDesgin
+# Source Code of Apple PLIST file plist-install.php :) by @AmeerDesgin
 
-this file .plist mareg with php 
+So this file .plist mareg with php 
 
-# How to used it 
+# How to used it ?
 
 ## Setup 1 
-Upload file install.php to server or hosting 
+Upload the file install.php to your server or hosting 
 
 ## setup 2 
-to Add url ipa,img and name 
-https://yourdomen.com/install.php?ipa=URLipaHere&icon=URLimg&title=NameAppHere
+to Add ipa url, img and name 
+https://doamin.com/install.php?ipa=URLipaHere&icon=URLimg&title=NameAppHere
 
 ipa= URL ipa
 
 img= URL icon 
 
 title= Name app
+
+
+** Note :
+You still need to encode the url before add it to 'itms-services://'
+
 ## Setup 3 
 
 itms-services:// with url 
